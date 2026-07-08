@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NL/Work_2026/07/6 月 29 日～7 月 3 日  第 1 周.md",
+                "file": "NL/Work_2026/07/7 月 6 日～7 月 10 日.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 月 29 日～7 月 3 日  第 1 周"
+              "title": "7 月 6 日～7 月 10 日"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NL/Work_2026/07/6 月 29 日～7 月 3 日  第 1 周.md",
+                "file": "NL/Work_2026/07/7 月 6 日～7 月 10 日.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "6 月 29 日～7 月 3 日  第 1 周 的反向链接列表"
+              "title": "7 月 6 日～7 月 10 日 的反向链接列表"
             }
           },
           {
@@ -200,8 +200,9 @@
   },
   "active": "c8564dbcdafb13d4",
   "lastOpenFiles": [
+    "NL/Work_2026/07/6 月 29 日～7 月 3 日.md",
+    "NL/Work_2026/07/7 月 6 日～7 月 10 日.md",
     "NL/Work_2026/上半年工作.md",
-    "NL/Work_2026/07/6 月 29 日～7 月 3 日  第 1 周.md",
     "NL/项目/项目总览.md",
     "NL/项目/NeuroStudio V2.0/源定位.md",
     "NL/项目/NeuroStudio V2.0/新算法.md",
@@ -235,7 +236,6 @@
     "GroupMeeting/2026-07-08.md",
     "GroupMeeting/Untitled.md",
     "Me/开发-架构.md",
-    "Untitled.canvas",
-    "NeuroStudioPerioperative/计划.md"
+    "Untitled.canvas"
   ]
 }
