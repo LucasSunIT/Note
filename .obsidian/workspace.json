@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d28a024f448e560f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NL/电刺激康复软件功能梳理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "电刺激康复软件功能梳理"
-            }
-          },
-          {
             "id": "c8564dbcdafb13d4",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "6 月 29 日～7 月 3 日  第 1 周"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "6 月 29 日～7 月 3 日  第 1 周 的反向链接列表"
+              "title": "Backlinks for 6 月 29 日～7 月 3 日  第 1 周"
             }
           },
           {
@@ -184,58 +169,56 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "c8564dbcdafb13d4",
   "lastOpenFiles": [
     "NL/Work_2026/上半年工作.md",
-    "NL/Work_2026/07/6 月 29 日～7 月 3 日  第 1 周.md",
     "NL/项目/项目总览.md",
-    "NL/项目/NeuroStudio V2.0/源定位.md",
-    "NL/项目/NeuroStudio V2.0/新算法.md",
     "NL/体系文档.md",
-    "NL/质量第一.md",
-    "NL/项目/NeuroStudio 睡眠/睡眠检测仪软件功能梳理.md",
-    "NL/项目/NeuroStudio 睡眠/开发环境安装.md",
-    "NL/项目/NeuroStudio 睡眠/项目总览",
-    "NL/项目/NeuroStudio 康复/电刺激康复软件功能梳理.md",
-    "NL/项目/NeuroStudio 围手术期/后端对接.md",
-    "NL/项目/NeuroStudio 围手术期/项目进度.md",
-    "NL/项目/NeuroStudio 围手术期/功能开发.md",
-    "NL/项目/NeuroStudio V1.0/设备采集.md",
-    "NL/项目/NeuroStudio V1.0/mne 基础.md",
-    "NL/项目/NeuroStudio V1.0/ZeroMq.md",
-    "NL/项目/NeuroStudio V1.0/MNE",
-    "NL/项目/NeuroStudio V1.0/后端对接接口.md",
-    "NL/项目/NeuroStudio V1.0/软件中主题等颜色.md",
-    "NL/项目/NeuroStudio V1.0/软件流程.md",
-    "NL/项目/NeuroStudio V1.0/开发过程笔记.md",
-    "NL/项目/NeuroStudio V1.0/Git Commond.md",
-    "NL/项目/NeuroStudio 睡眠",
-    "NL/项目/NeuroStudio 康复",
-    "NL/项目/NeuroStudio V2.0",
-    "NL/项目/NeuroStudio 围手术期",
-    "NL/项目/NeuroStudio V1.0",
+    "GroupMeeting/2026-07-08.md",
+    "_scripts/ediary_strings.txt",
     "_scripts/我的日记.edf",
     "_scripts/ediary_migrate.py",
-    "_scripts/ediary_menu_map.py",
-    "Me/Account.md",
-    "GroupMeeting/2026-07-08.md",
+    "_scripts",
+    "NL/项目/NeuroStudio 睡眠/睡眠检测仪软件功能梳理.md",
+    "NL/项目/NeuroStudio 睡眠/开发环境安装.md",
+    "NL/项目/NeuroStudio 围手术期/项目进度.md",
+    "NL/项目/NeuroStudio 围手术期/后端对接.md",
+    "NL/项目/NeuroStudio 围手术期/功能开发.md",
+    "NL/项目/NeuroStudio V1.0/软件流程.md",
+    "NL/项目/NeuroStudio V1.0/软件中主题等颜色.md",
+    "NL/项目/NeuroStudio V1.0/设备采集.md",
+    "NL/项目/NeuroStudio V1.0/开发过程笔记.md",
+    "NL/项目/NeuroStudio V1.0/后端对接接口.md",
+    "NL/项目/NeuroStudio V1.0/mne 基础.md",
+    "NL/项目/NeuroStudio V1.0/ZeroMq.md",
+    "NL/项目/NeuroStudio V1.0/Git Commond.md",
+    "NL/项目/NeuroStudio 康复/电刺激康复软件功能梳理.md",
+    "NL/项目/NeuroStudio V2.0/源定位.md",
+    "NL/项目/NeuroStudio V2.0/新算法.md",
+    "NL/项目/NeuroStudio 睡眠",
+    "NL/项目/NeuroStudio 康复",
+    "NL/项目/NeuroStudio 围手术期",
+    "NL/项目/NeuroStudio V2.0",
+    "NL/项目/NeuroStudio V1.0",
+    "NL/项目",
+    "NL/质量第一.md",
+    "NL/Work_2026/07/6 月 29 日～7 月 3 日  第 1 周.md",
     "GroupMeeting/Untitled.md",
-    "Me/开发-架构.md",
-    "Untitled.canvas",
-    "NeuroStudioPerioperative/计划.md"
+    "NL/电刺激康复软件功能梳理.md",
+    "Me/Account.md",
+    "Untitled.canvas"
   ]
 }
