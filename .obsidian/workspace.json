@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8bbe40661c6f8200",
+        "id": "bf551a6f1e7e41c3",
         "type": "tabs",
         "children": [
           {
-            "id": "c8564dbcdafb13d4",
+            "id": "350fe7db5b0755ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NL/Work_2026/07/7 月 6 日～7 月 10 日.md",
+                "file": "NL/体系文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 月 6 日～7 月 10 日"
+              "title": "体系文档"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NL/Work_2026/07/7 月 6 日～7 月 10 日.md",
+                "file": "NL/体系文档.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "7 月 6 日～7 月 10 日 的反向链接列表"
+              "title": "体系文档 的反向链接列表"
             }
           },
           {
@@ -182,11 +182,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c8564dbcdafb13d4",
+  "active": "350fe7db5b0755ae",
   "lastOpenFiles": [
-    "NL/Work_2026/上半年工作.md",
-    "NL/项目/项目总览.md",
+    "NL/质量第一.md",
     "NL/体系文档.md",
+    "NL/项目/NeuroStudio V2.0/新算法.md",
+    "NL/项目/NeuroStudio V2.0/源定位.md",
+    "NL/项目/项目总览.md",
+    "NL/Work_2026/上半年工作.md",
+    "NL/Work_2026/07/7 月 6 日～7 月 10 日.md",
     "GroupMeeting/2026-07-08.md",
     "_scripts/ediary_strings.txt",
     "_scripts/我的日记.edf",
@@ -206,15 +210,12 @@
     "NL/项目/NeuroStudio V1.0/ZeroMq.md",
     "NL/项目/NeuroStudio V1.0/Git Commond.md",
     "NL/项目/NeuroStudio 康复/电刺激康复软件功能梳理.md",
-    "NL/项目/NeuroStudio V2.0/源定位.md",
-    "NL/项目/NeuroStudio V2.0/新算法.md",
     "NL/项目/NeuroStudio 睡眠",
     "NL/项目/NeuroStudio 康复",
     "NL/项目/NeuroStudio 围手术期",
     "NL/项目/NeuroStudio V2.0",
     "NL/项目/NeuroStudio V1.0",
     "NL/项目",
-    "NL/质量第一.md",
     "NL/Work_2026/07/6 月 29 日～7 月 3 日  第 1 周.md",
     "GroupMeeting/Untitled.md",
     "NL/电刺激康复软件功能梳理.md",
