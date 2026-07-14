@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NL/产品注册/医疗器械生产质量管理规范附录 独立软件.md",
+                "file": "NL/产品注册/第二类医疗器械独立软件技术审批规范.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "医疗器械生产质量管理规范附录 独立软件"
+              "title": "第二类医疗器械独立软件技术审批规范"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NL/产品注册/医疗器械生产质量管理规范附录 独立软件.md",
+                "file": "NL/产品注册/第二类医疗器械独立软件技术审批规范.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "医疗器械生产质量管理规范附录 独立软件 的大纲"
+              "title": "第二类医疗器械独立软件技术审批规范 的大纲"
             }
           }
         ],
@@ -185,7 +185,9 @@
   },
   "active": "c06eb9b08bc3a570",
   "lastOpenFiles": [
-    "NL/产品注册/体系文档.md",
+    "NL/产品注册/体系文档 总览.md",
+    "NL/产品注册/质量第一.md",
+    "NL/产品注册/第二类医疗器械独立软件技术审批规范.md",
     "NL/产品注册/医疗器械生产质量管理规范附录 独立软件.md",
     "NL/Work_2026/07/7 月 13日～7 月 17 日.md",
     "NL/软件项目/NeuroStudio 围手术期/功能开发.md",
@@ -193,7 +195,6 @@
     "NL/软件项目/NeuroStudio 睡眠/开发环境安装.md",
     "NL/软件项目/NeuroStudio 睡眠/康复设备_LGT231_2320E.md",
     "NL/软件项目/NeuroStudio 康复/电刺激康复软件功能梳理.md",
-    "NL/产品注册/质量第一.md",
     "NL/软件项目/NeuroStudio V1.0/mne 基础.md",
     "NL/软件项目/NeuroStudio V1.0/设备采集.md",
     "NL/软件项目/NeuroStudio V1.0/开发过程笔记.md",
@@ -213,7 +214,6 @@
     "GroupMeeting/2026-07-08.md",
     "Me/Account.md",
     "Me/开发-架构.md",
-    "NL/软件项目/NeuroStudio V2.0/源定位.md",
     "_scripts/ediary_strings.txt",
     "_scripts/我的日记.edf",
     "_scripts/ediary_migrate.py",
