@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NL/Work_2026/07/7 月 6 日～7 月 10 日.md",
+                "file": "NL/Work_2026/07/7 月 13日～7 月 17 日.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 月 6 日～7 月 10 日"
+              "title": "7 月 13日～7 月 17 日"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NL/Work_2026/07/7 月 6 日～7 月 10 日.md",
+                "file": "NL/Work_2026/07/7 月 13日～7 月 17 日.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "7 月 6 日～7 月 10 日 的反向链接列表"
+              "title": "7 月 13日～7 月 17 日 的反向链接列表"
             }
           },
           {
@@ -156,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NeuroStudioSleep/计划.md",
+                "file": "NL/Work_2026/07/7 月 13日～7 月 17 日.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 计划"
+              "title": "7 月 13日～7 月 17 日 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -182,15 +183,16 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c06eb9b08bc3a570",
+  "active": "378e6419066cbd04",
   "lastOpenFiles": [
+    "NL/Work_2026/07/7 月 6 日～7 月 10 日.md",
+    "NL/Work_2026/07/7 月 13日～7 月 17 日.md",
     "NL/软件项目/项目总览.md",
     "NL/软件项目/NeuroStudio 睡眠/康复设备_LGT231_2320E.md",
     "NL/软件项目/NeuroStudio 睡眠/睡眠检测仪软件功能梳理.md",
     "NL/软件项目/NeuroStudio V1.0/软件流程.md",
     "NL/软件项目/NeuroStudio V1.0/Git Commond.md",
     "NL/Work_2026/上半年工作.md",
-    "NL/Work_2026/07/7 月 6 日～7 月 10 日.md",
     "NL/Work_2026/07/6 月 29 日～7 月 3 日.md",
     "NL/软件项目/NeuroStudio V1.0/开发过程笔记.md",
     "NL/软件项目/NeuroStudio 康复/电刺激康复软件功能梳理.md",
@@ -216,7 +218,6 @@
     "NL/软件项目/NeuroStudio 围手术期/项目进度.md",
     "NL/软件项目/NeuroStudio 围手术期/后端对接.md",
     "NL/软件项目/NeuroStudio 围手术期/功能开发.md",
-    "NL/软件项目/NeuroStudio V1.0/软件中主题等颜色.md",
     "NL/软件项目/NeuroStudio 睡眠",
     "NL/软件项目/NeuroStudio 康复",
     "NL/软件项目/NeuroStudio 围手术期",
