@@ -1,3 +1,5 @@
 # Obsidian workspace cache (device-specific, changes constantly)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.DS_Store
+.obsidian/.DS_Store
