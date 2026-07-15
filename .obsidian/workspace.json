@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NL/产品注册/第二类医疗器械独立软件技术审批规范.md",
+                "file": "NL/Work_2026/上半年工作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第二类医疗器械独立软件技术审批规范"
+              "title": "上半年工作"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NL/产品注册/第二类医疗器械独立软件技术审批规范.md",
+                "file": "NL/Work_2026/上半年工作.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第二类医疗器械独立软件技术审批规范 的大纲"
+              "title": "上半年工作 的大纲"
             }
           }
         ],
@@ -185,11 +185,14 @@
   },
   "active": "c06eb9b08bc3a570",
   "lastOpenFiles": [
-    "NL/产品注册/体系文档 总览.md",
-    "NL/产品注册/质量第一.md",
-    "NL/产品注册/第二类医疗器械独立软件技术审批规范.md",
-    "NL/产品注册/医疗器械生产质量管理规范附录 独立软件.md",
+    "1.md",
+    "NL/Work_2026/上半年工作.md",
+    "企业微信截图_17840235666639.png",
     "NL/Work_2026/07/7 月 13日～7 月 17 日.md",
+    "NL/产品注册/2、第二类医疗器械独立软件技术审批规范.md",
+    "NL/产品注册/3、医疗器械生产质量管理规范附录 独立软件.md",
+    "NL/产品注册/1、体系文档 总览.md",
+    "NL/产品注册/质量第一.md",
     "NL/软件项目/NeuroStudio 围手术期/功能开发.md",
     "NL/软件项目/NeuroStudio 睡眠/睡眠检测仪软件功能梳理.md",
     "NL/软件项目/NeuroStudio 睡眠/开发环境安装.md",
@@ -204,7 +207,6 @@
     "NL/软件项目/项目总览.md",
     "NL/软件项目/NeuroStudio V1.0/软件流程.md",
     "NL/软件项目/NeuroStudio V1.0/Git Commond.md",
-    "NL/Work_2026/上半年工作.md",
     "NL/软件项目/NeuroStudio V1.0/ZeroMq.md",
     "Tech/通信/蓝牙.md",
     "Tech/通信",
@@ -212,8 +214,6 @@
     "NL/软件项目/NeuroStudio V2.0/新算法.md",
     "NL/产品注册",
     "GroupMeeting/2026-07-08.md",
-    "Me/Account.md",
-    "Me/开发-架构.md",
     "_scripts/ediary_strings.txt",
     "_scripts/我的日记.edf",
     "_scripts/ediary_migrate.py",
