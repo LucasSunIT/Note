@@ -2,7 +2,19 @@ complete the following sentences using no more than three words from the text fo
 using no more than threes words form the text for each gap
 vibrant  vibrant vibrant vibrant  so vibrant  swelling. swelling
 swelling  swelling swelling swelling populations  decreased debt  decreased debt
-decreased
+decreased  debt.     decreased debt.    decreased debt
+growing citis    
+emerging middle-class consumer sectors
+emerging middle-class consumer sectors
+emerging middle-class consumer sectors
+evolving markets and , of course 
+
+
+
+
+
+
+
 
 
 
