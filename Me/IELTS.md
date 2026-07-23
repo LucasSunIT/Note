@@ -1,4 +1,11 @@
-听力 40 个题目 30 分钟时间四个 part
+criteria criteria  criteria critaria criteria criteria criteria criteria
+the criteria used to get a score for each country
+the criteria used to get a score for each country
+the criteria used to get a score for each country
+the fact the japan's brith rate is falling quickly
+the face the japan
+
+分钟时间四个 part
 双向的关于场景的交流、独白、2-3 作业讨论、学术环境下的独白
 多人、单人。   生活环境、学术环境
 单选题 多选题 匹配题 地图题
