@@ -1,9 +1,9 @@
 # Note
 
-## NeuroStudioRehab
+个人笔记库（Obsidian 等）。
 
-脑机接口肢体康复项目架构与数据流笔记见：
+## NeuroStudioRehab 架构文档
 
-**[NeuroStudioRehab-README.md](./NeuroStudioRehab-README.md)**（索引 + 链接到 01～07 专题）
+脑机接口肢体康复项目（源码 `E:\code\NeuroStudioRehab`）的分层、数据流与排错笔记统一放在：
 
-源码路径：`E:\code\NeuroStudioRehab`
+**[NeuroStudioRehab/README.md](./NeuroStudioRehab/README.md)**
