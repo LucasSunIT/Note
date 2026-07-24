@@ -6,4 +6,4 @@
 
 脑机接口肢体康复项目（源码 `E:\code\NeuroStudioRehab`）的分层、数据流与排错笔记统一放在：
 
-**[NeuroStudioRehab/README.md](./NeuroStudioRehab/README.md)**
+**[NeuroStudioRehab/README.md](NL/软件项目/NeuroStudio%20康复/软件架构/README.md)**
