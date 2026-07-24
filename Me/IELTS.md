@@ -1,38 +1,3 @@
-complete the following sentences using no more than three words from the text for each gap
-using no more than threes words form the text for each gap
-vibrant  vibrant vibrant vibrant  so vibrant  swelling. swelling
-swelling  swelling swelling swelling populations  decreased debt  decreased debt
-decreased  debt.     decreased debt.    decreased debt
-growing citis    
-emerging middle-class consumer sectors
-emerging middle-class consumer sectors
-emerging middle-class consumer sectors
-evolving markets and , of course 
-
-
-
-
-
-
-
-
-
-
-criteria criteria  criteria critaria criteria criteria criteria criteria
-the criteria used to get a score for each country
-the criteria used to get a score for each country
-the criteria used to get a score for each country
-the fact the japan's brith rate is falling quickly
-the face the japan's brith rate is falling quickly
-the fact that a woman runs one of thailand's biggest banks
-the fact that a woman runs one of thailand's biggest banks
-
-
-
-
-
-
-
 
 分钟时间四个 part
 双向的关于场景的交流、独白、2-3 作业讨论、学术环境下的独白
